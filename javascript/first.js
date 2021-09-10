@@ -1,6 +1,14 @@
 "use strict";
-const number = 5;
-console.log('typscript has been loaded');
-console.log('my nummber-', number);
-const myname = 'Faisal Khan Tushar';
-console.log('my name is-', myname);
+let money = 500;
+let myName = 'Faisal khan Tushar';
+let falsy = false;
+console.log(money);
+// function addition(first:number | string,second:number | string):number | string{
+//   // const result:number | string =first+second;
+//   return result;
+// }
+function doubleTheNumber(number) {
+    number = 2 * number;
+}
+// addition(45,50)
+// addition('Tushar','Khan')

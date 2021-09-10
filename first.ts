@@ -4,13 +4,13 @@ let falsy:boolean=false;
 
 console.log(money)
 
-function addition(first:number | string,second:number | string):number | string{
-  const result:number | string =first+second;
-  return result;
-}
+// function addition(first:number | string,second:number | string):number | string{
+//   // const result:number | string =first+second;
+//   return result;
+// }
 function doubleTheNumber(number:number):void{
   number=2*number;
 
 }
-addition(45,50)
-addition('Tushar','Khan')
+// addition(45,50)
+// addition('Tushar','Khan')
