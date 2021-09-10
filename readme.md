@@ -13,6 +13,4 @@ in typescript we can't do things like that.
 6.how to write classes<br/>
 
 <h1>Things to do </h1><br/>
-1.what is typescript<br/>
-2.TypeScript vs Javascript (Difference between TS and JS) (Pros and cons of TS)<br/>
-3.Read 'Everyday types' from the doc.<br/>
+1.read the doc file
